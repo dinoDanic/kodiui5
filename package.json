@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "kodiui5",
+  "name": "@dinodanic/kodiui5",
   "author": "Dino Danic",
   "module": "dist/kodiui5.esm.js",
   "size-limit": [
@@ -67,5 +67,18 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.4.0",
     "typescript": "^4.6.4"
-  }
+  },
+  "description": "Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinoDanic/kodiui5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dinoDanic/kodiui5/issues"
+  },
+  "homepage": "https://github.com/dinoDanic/kodiui5#readme"
 }
